@@ -1,0 +1,78 @@
+Script started on Tue 15 Sep 2009 02:23:57 AM MSD
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ kill 6790[Kscript generate controller index index[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@/
+      exists  app/controllers/
+      exists  app/helpers/
+      create  app/views/index
+      exists  test/functional/
+      create  test/unit/helpers/
+      create  app/controllers/index_controller.rb
+      create  test/functional/index_controller_test.rb
+      create  app/helpers/index_helper.rb
+      create  test/unit/helpers/index_helper_test.rb
+      create  app/views/index/index.html.erb
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ cat ` [K[K~/.sh[Ksh//home/gleb/.ssh/
+id_rsa           id_rsa.keystore  id_rsa.pub       known_hosts      
+gleb@devel:~/Sites/test$ cat /home/gleb/.ssh/in[Kd_rsa.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAnY2+O71YI02fGvMimolJZJqB9SeM+m39e8Z38fNwTI8roKlWWhfNU6gKUGAn56/0F4PxiC4Wunsprs4NS4fMJNYITxUnWR4ENeMjgFvq/y6wVZGmitwkMV2q+2tg3EP46JvxsIPYJoneP75ntOmbJNmkNuNZEHgoGFQ/U4En1IWSIrl3by92a62zhcRWEkH5zFDscdgxzPIa9V7rLWJv66oaB0YeOdMK6z2T0rCr+dz0UkRztDdF92jrPHY5B+CWSJcfdiHM2nxkc5tHLi49Xv94j67MCt2N94BGPeeegRFUNb8hiivl71RLp3EMjeXAs09MoKSqkcO1Sr3GL13okQ== gleb@devel
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ git add origin   git://github.com/glebk/Sandbox.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit://github.com/glebk/Sandbox.git[1Pgit://github.com/glebk/Sandbox.git
+fatal: Not a git repository
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ git init
+Initialized empty Git repository in .git/
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ git initadd origin git://github.com/glebk/Sandbox.git
+fatal: pathspec 'origin' did not match any files
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ git add origin git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr git://github.com/glebk/Sandbox.gite git://github.com/glebk/Sandbox.gitm git://github.com/glebk/Sandbox.gito git://github.com/glebk/Sandbox.gitt git://github.com/glebk/Sandbox.gite git://github.com/glebk/Sandbox.git\ git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git
+fatal: pathspec 'remote' did not match any files
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ gt [K[Kit help origin
+No manual entry for git-origin
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ git help originadd remote git://github.com/glebk/Sandbox.git[C[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit://github.com/glebk/Sandbox.gm git://github.com/glebk/Sandbox.gito git://github.com/glebk/Sandbox.gitt git://github.com/glebk/Sandbox.gite git://github.com/glebk/Sandbox.git\ git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git
+fatal: pathspec 'remote' did not match any files
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ gt [K[Kit help origin
+No manual entry for git-origin
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ git help originadd remote git://github.com/glebk/Sandbox.git[C[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit://github.com/glebk/Sandbox.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@o[1@r[1@i[1@g[1@i[1@n[1@ 
+git: 'origin' is not a git-command. See 'git --help'.
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ git he[K[Khelp
+usage: git [--version] [--exec-path[=GIT_EXEC_PATH]] [-p|--paginate|--no-pager] [--bare] [--git-dir=GIT_DIR] [--work-tree=GIT_WORK_TREE] [--help] COMMAND [ARGS]
+
+The most commonly used git commands are:
+   add        Add file contents to the index
+   bisect     Find the change that introduced a bug by binary search
+   branch     List, create, or delete branches
+   checkout   Checkout and switch to a branch
+   clone      Clone a repository into a new directory
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   fetch      Download objects and refs from another repository
+   grep       Print lines matching a pattern
+   init       Create an empty git repository or reinitialize an existing one
+   log        Show commit logs
+   merge      Join two or more development histories together
+   mv         Move or rename a file, a directory, or a symlink
+   pull       Fetch from and merge with another repository or a local branch
+   push       Update remote refs along with associated objects
+   rebase     Forward-port local commits to the updated upstream head
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+   show       Show various types of objects
+   status     Show the working tree status
+   tag        Create, list, delete or verify a tag object signed with GPG
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ git helporigin add git://github.com/glebk/Sandbox.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@r[1@e[1@m[C[1@o[1@d[1@e[1P[1P[1@t[1@e[1@ [1@a[1@d[1@d[1@ [C[C[C[C[C[C[C[C[C[C[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1P git://github.com/glebk/Sandbox.git[1Pgit://github.com/glebk/Sandbox.git
+]0;gleb@devel: ~/Sites/testgleb@devel:~/Sites/test$ gst
+# On branch master
+#
+# Initial commit
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	[31mREADME[m
+#	[31mRakefile[m
+#	[31mapp/[m
+#	[31mconfig/[m
+#	[31mdoc/[m
+#	[31mgenerate[m
+#	[31mlog/[m
+#	[31mpublic/[m
+#	[31mscript/[m
+#	[31mtest/[m
+nothing added to commit but untracked files present (use "git add" to track)
+]0;gleb
